@@ -1,11 +1,11 @@
 {
   "bot": {
-    "name": "Rose Bot",
+    "name": "𝑶𝑪𝑻𝑨𝑽𝑰𝑶 𝑨𝑰",
     "prefix": "/",
     "version": "2.0.0"
   },
   "telegram": {
-    "token": "YOUR_BOT_TOKEN_HERE",
+    "token": "AAEUwsGVvi6WImJNalH9RlW6bckGqx8En6E",
     "polling": {
       "timeout": 30,
       "allowed_updates": ["message", "callback_query"]
